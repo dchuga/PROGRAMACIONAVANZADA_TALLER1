@@ -1,0 +1,7 @@
+target/
+.idea/
+*.class
+.mvn/
+*.log
+.project
+.settings/
